@@ -1,10 +1,46 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "description": " Lenovo Ideapad 1 Laptop, 15.6 HD Screen, AMD Athlon Silver 3050U",
+      "id": "1",
+      "image": "https://m.media-amazon.com/images/I/61iPwyl3XeL._AC_SL1500_.jpg",
+      "price": 4200,
+      "title":"Lenovo laptop"
+    },
+
+    {
+      
+      "description": " This unit has an estimated 6 hour working battery life, with Intel UHD Graphics 500 and 4GB memory.  It has a MicroSD card reader, Headphone Jack, USB3.0, USB Type C, HDMI and VGA ports and is pre-loaded with Windows 10 Home.  They keyboard is backlit and spill proof.  It has an Ethernet RJ45 port to connect you directly to your network. ",
+      "id": "2",
+      "image": "https://m.media-amazon.com/images/I/612si+99zuL._AC_SL1500_.jpg",
+      "price": 3800,
+      "title":"Dell laptop"   
+    },
+
+    {
+      "description": "SGIN 17 Inch Laptop, 4GB RAM 128GB SSD Computer, Windows 11 Laptops with IPS Display, Intel Celeron N4020 Dual-Core Processor(Up to 2.8GHz), Mini HDMI, Webcam, Dual Wi-Fi, 512GB Expansion",
+      "id": "3",
+      "image": "https://m.media-amazon.com/images/I/81-eeVXlupL._AC_SX679_.jpg",
+      "price": 2900,
+      "title":"SGin"
+    },
+
+    {
+      "description": "HP Chromebook 14a-na0052tg 14-inch HD Laptop PC Intel Celeron N4120 UHD Graphics 600 4GB RAM 64GB eMMC Thin Computer Notebook w/ WiFi & Bluetooth Webcam USB-C Google Chrome OS Mineral Silver (Renewed)",
+      "id": "4",
+      "image": "https://m.media-amazon.com/images/I/81-eeVXlupL._AC_SX679_.jpg",
+      "price": 4000,
+      "title":"HP laptop"
+    },
+
+    {
+      "description": "Samsung Chromebook 4 Chrome OS 11.6' HD Intel Celeron Processor N4000 4GB RAM 32GB eMMC Gigabit Wi-Fi - XE310XBA-K01US",
+      "id": "5",
+      "image": "https://m.media-amazon.com/images/I/61UVAs3Qk-L._AC_SX679_.jpg",
+      "price": 4000,
+      "title":"Samsung laptop"
     }
+
   ]
  
 }
