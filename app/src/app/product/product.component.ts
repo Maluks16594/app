@@ -9,15 +9,16 @@ import { ProductsService } from '../api/products.service';
 export class ProductComponent implements OnInit {
   
   public productlist:any;
+item: any;
   constructor(private api:ProductsService){}
   
   
   ngOnInit(): void {
     this.api.getproduct().subscribe(res=>{
     console.log(res);
-    this.productlist=this.productlist;
+    //this.productlist=this.productlist;
     })
-    //console.log(this.productlist);
+    
     
   }
 
